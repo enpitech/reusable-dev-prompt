@@ -1,7 +1,7 @@
 ---
 mode: 'agent'
 model: Claude Sonnet 4
-description: 'a prompt for creating a new react-router fullstack framework project.'
+description: 'a prompt for installing and configuring the latest storybook in a react-router vite plugin project.'
 ---
 
 # Storybook Installation Guide for React Router v7 + Vite Projects
