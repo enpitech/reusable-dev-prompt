@@ -1,4 +1,4 @@
-In this repo you will find reusable prompt files for everything that is repetiteve in a web project, for example:
+In this repo you will find reusable prompt files for everything that is repetitive in a web project, for example:
 1. Creating new project
 2. Install and configure dependcies such as prettier and linter
 3. Creating tests
